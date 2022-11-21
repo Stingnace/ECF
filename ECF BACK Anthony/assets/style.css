@@ -1,0 +1,28 @@
+.success {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.section {
+    text-align: center;
+    border: solid black 2px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.auteur {
+    font-weight: bold;
+    font-style: italic;
+}
